@@ -2,9 +2,6 @@
 
 3 projetos feitos em Javascript durante a live do prof. Bonieky da B7Web Cursos.
 
-# Live em Javascript - HTML - CSS
-
-Três projetos em Javascript puro feitos durante uma live com o professor Bonieky Lacerda da B7Web.
 
 ## Urna Eletrônica
 
