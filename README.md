@@ -1,7 +1,8 @@
-# bonieky-live-javascript-HTML-CSS
+# Live do Professor Bonieky # 3 Projetos sendo usado JavaScript, HTML e CSS
+
 3 projetos feitos em Javascript durante a live do prof. Bonieky da B7Web Cursos.
 
-# Live em Javascript
+# Live em Javascript - HTML - CSS
 
 Três projetos em Javascript puro feitos durante uma live com o professor Bonieky Lacerda da B7Web.
 
